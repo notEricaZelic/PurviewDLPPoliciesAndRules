@@ -1,6 +1,6 @@
 # PurviewDLPPoliciesAndRules
 
-Gets all your Purview DLP Policies and Rules and how they are configured for Content Contains including calssifier configurations per rule.  Seperates out workloads for easy filtering.  Good for making Power BI Dashboards and drift monitoring.
+Gets all your Purview DLP Policies and Rules and how they are configured for Content Contains including classifier configurations per rule.  Seperates out workloads for easy filtering.  Good for making Power BI Dashboards and drift monitoring.
 
 Credits: Microsoft Docs, M365 Copilot
 
