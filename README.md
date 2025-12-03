@@ -7,6 +7,6 @@ Credits: Microsoft Docs, M365 Copilot
 Connect to Exchange Online Powershell with an appropriate role to run.
 
 TODO:
-Rule Notification and Incident Reporting Configs still need to be fixed.
+Rule Notification and Incident Reporting Configs still need to be fixed. Integrate Trainable Classifiers and EDMs.
 
 Don't open any issues.  I won't look at them.
